@@ -1,0 +1,22 @@
+body{
+    color: white;
+    background-color: black;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 680px;
+    width: 100%;
+}
+section h1{
+    color: #ff004f;
+    font-size: 50px;
+}
+span{
+    color: #ff004f;
+}
+section div{
+    font-size: 30px;
+}
